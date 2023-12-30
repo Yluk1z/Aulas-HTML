@@ -1,0 +1,5 @@
+C:/Users/GF/Desktop/aulas[[:space:]]HTML/Aula[[:space:]]11[[:space:]]videos/videos.html filter=lfs diff=lfs merge=lfs -text
+C:/Users/GF/Desktop/aulas[[:space:]]HTML/Aula[[:space:]]11[[:space:]]videos/desenvolvimneto.mp4 filter=lfs diff=lfs merge=lfs -text
+11 filter=lfs diff=lfs merge=lfs -text
+videos/desenvolvimneto.mp4 filter=lfs diff=lfs merge=lfs -text
+Aula filter=lfs diff=lfs merge=lfs -text
